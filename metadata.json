@@ -1,0 +1,6 @@
+{
+  "name": "Environmental Compliance OS",
+  "description": "Enterprise SaaS for Chilean & LatAm Environmental Compliance, Ley REP (SISREP-ready), Corporate GHG Carbon Accounting (Scope 1/2/3, NCh-ISO 14064-1), and Product Carbon Footprint (NCh-ISO 14067).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
